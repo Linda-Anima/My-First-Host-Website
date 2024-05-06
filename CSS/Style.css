@@ -1,0 +1,63 @@
+
+    body{
+      background-color:#E8D8C4 ;
+    }
+
+    a{
+      color: rgb(22, 22, 137);
+      text-decoration: none;
+    }
+    a:hover{
+      color: rgb(109, 109, 115);
+    }
+
+     hr{
+      border: 1px solid rgb(209, 195, 195) ;
+      
+    }
+
+    #container{
+      text-align: center;
+    }
+
+    .img{  
+     /* width: 150px;
+     display: flex; */
+     
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    
+
+    .Contact{
+      text-decoration: underline;
+    }
+
+    .h-line{
+      background-color: white;
+      border :none;
+      border-top-style: dotted;
+      border-width: 4px;
+      height: 0px;
+      width: 8%;
+      color: grey;
+    }
+    h2{
+      color: #66BFBF;
+    }
+
+    .skills h2{
+      text-decoration: underline;
+    }
+
+    h3{
+      color: chocolate;
+    }
+
+   
+
+   
+    
